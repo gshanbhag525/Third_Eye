@@ -34,6 +34,13 @@ Note: the calibration steps are quite small. For convenience, you can click more
  - Change the motor speed by the bar under the camera view
 
 ####App:
+1. App using AppInventer:
+
 The Android app is build under [MIT App Inventor 2](http://ai2.appinventor.mit.edu/),
 so no detail source code, just a project folder, which you can edit it with App Inventor 2. 
-The project files are under Android_App folder.
+The project files are under html_server/Android_App folder.
+
+2. App using Android Studio:
+
+The Android app is built using android studio .
+The project files are under project_files/Controller folder.
