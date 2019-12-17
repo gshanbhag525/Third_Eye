@@ -11,22 +11,24 @@ The Android app project files are under Android_App folder.
 
 This server runs on Raspberry Pi, and is controlled by the Android app.
 
-####Setup:
+#### Setup:
 1. Install Django:
 
 	 sudo pip install django
+	 
 2. Then, at `Third_Eye/http_server/` run:
 
-	sudo python manage.py runserver 0.0.0.0:8000
+	`sudo python manage.py runserver 0.0.0.0:8000`
 
 3. Open the app on your phone, and type in your Raspberry Pi's IP address,
-   click FORWARD (the right arrow) and then you can see the image from the car's camera.
 
-####Calibration:
+   	click FORWARD (the right arrow) and then you can see the image from the car's camera.
+
+#### Calibration:
 Begin calibration by clicking on the dot in a circle at the corner. 
 Note: the calibration steps are quite small. For convenience, you can click more times or even type in a specific value.
 
-####Control:
+#### Control:
  - Control the car direction by tilting your phone, like a steering wheel.
  - Control the car forward/backward by the up/down arrow on the left.
  - Control the camera pan/tilt by the up/down/left/right arrow on the right, 
