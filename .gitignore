@@ -1,7 +1,5 @@
 # Prerequisites
 *.d
-*.py
-
 
 # Object files
 *.o
