@@ -1,10 +1,14 @@
 # Third_Eye
 ----------
+## Demonstration 
+[Third Eye: a Remote Surveillance System](https://www.youtube.com/watch?v=p-T-LUWfCaY)
+
+![Images]()
 ### Server
 
 This app is built based on Django.
 
-Control the Smart Video Car via the gravity sensor on a cell phone - control the car and the camera onside,
+Control the Smart Video Vehicle via the gravity sensor on a cell phone - control the car and the camera onside,
 as well as view the camera video in real time. What's more, on the app, 
 you can conveniently calibrate the car turning and the pan-tilt. 
 
