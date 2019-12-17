@@ -1,6 +1,7 @@
 # Third_Eye
-### Html server
 ----------
+### Server
+
 This app is built based on Django.
 
 Control the Smart Video Car via the gravity sensor on a cell phone - control the car and the camera onside,
@@ -35,7 +36,7 @@ Note: the calibration steps are quite small. For convenience, you can click more
    And set the camera back to the default position by the middle dot.
  - Change the motor speed by the bar under the camera view
 
-####App:
+### App:
 1. App using AppInventer:
 
 The Android app is build under [MIT App Inventor 2](http://ai2.appinventor.mit.edu/),
