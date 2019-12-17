@@ -3,7 +3,7 @@
 ## Demonstration 
 [Third Eye: a Remote Surveillance System](https://www.youtube.com/watch?v=p-T-LUWfCaY)
 
-![](images/image1.jpg)
+![](images/image1.JPG)
 ### Server
 
 This app is built based on Django.
